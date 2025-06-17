@@ -12,5 +12,10 @@ A Chrome extension and backend service to monitor your time on websites, block d
 - Frontend: JavaScript, Chrome Extension APIs
 - Backend: MongoDB, Express, React (for dashboard), Node.js
 
+## Environment Variables
+Create a `.env` file in the root with the following structure:
+
+MONGO_URI=your_mongodb_connection_string
+
 ## Setup
 Coming soon...
